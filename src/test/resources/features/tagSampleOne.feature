@@ -1,4 +1,4 @@
-@EndtoEndTest
+@EndtoEndTest @RegressionTest
 Feature: Google page Test
 
 Scenario: Search Java Text
